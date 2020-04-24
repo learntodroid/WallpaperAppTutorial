@@ -32,8 +32,6 @@ public class LiveWallpaperFragment extends Fragment {
             }
         });
 
-        //todo add bottom navigation
-
         return view;
     }
 }
